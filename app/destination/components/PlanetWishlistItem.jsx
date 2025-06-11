@@ -5,7 +5,7 @@ const PlanetWishlistItem = ({
   name,
   onRemove,
   thumbnail,
-}) => {
+}) => { 
   return (
     <div className={styles.wishlistItem}>
       <img className={styles.wishlistItemThumbnail} src={thumbnail} alt="" />

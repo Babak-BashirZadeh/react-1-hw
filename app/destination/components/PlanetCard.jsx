@@ -3,7 +3,7 @@ import styles from "@/components/destination/destination.module.css";
 const PlanetCard = ({
   name,
   description,
-  thumbnail,
+  thumbnail, 
   isSelected,
   onAddOrRemovePlanet,
   index,
