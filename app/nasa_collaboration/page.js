@@ -78,7 +78,7 @@ export const NasaCollaboration = () => {
           {roverPhoto?.photos?.length ? (
             <>
               {/* TASK - React 1 week 3 */}
-              {/* Create a react component for the <RoverPhoto />, which should accept the following props */}
+              {/* Create a react co mponent for the <RoverPhoto />, which should accept the following props */}
               {/* 1. src: source of the img (img_src in the data from the API) */}
               {/* 2. date: earth_date data coming from the API */}
               {/* 3. roverName: will be in the rover object - rover.name */}

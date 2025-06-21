@@ -13,9 +13,9 @@ export const AddWishlistItem = ({ onAddWishlistItem }) => {
   const [wishlistItemName, setWishlistItemNameChange] = useState("");
   const onAddItemPressed = () => {
     // TASK - React 1 week 3
-    // implement this function
+    // implement this func tion
     // Clear the <input/> field on button press
-    // pass the thumbnail and the name from the input to the onAddWishlistItem function
+    // pass the thum bnail and the name from the input to the onAddWishlistItem function
     // call the onAddWishlistItem here
     if (wishlistItemName.trim() === "") {
       alert("Please enter a name for the wishlist item.");

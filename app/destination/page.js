@@ -70,7 +70,7 @@ export const Destinations = () => {
           {/* Import the AddWishlistItem react component */}
           <AddWishlistItem />
           {/* TASK - React 1 week 3 */}
-          {/* Convert the list, so it is using selectedPlanets.map() to display the items  */}
+          {/* Convert the li st, so it is using selectedPlanets.map() to display the items  */}
           {/* Implement the "REMOVE" function */}
           {/* uncomment the following code snippet: */}
           <h3>Your current wishlist</h3>
